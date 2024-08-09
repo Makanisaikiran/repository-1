@@ -1,0 +1,9 @@
+this are the commands i used to push the code from " VS code"
+
+
+1. git init      ( to initiate Repo in local) 
+2. git add .    ( to add all files   )
+3. git commit -m " Add Your commits info"  (commits the data or confirm the changes)
+
+4. git remote add origin "your remote repo URL"  (Add the address of your remote repo . Create conection b/w the local and remote)
+5. git push origin " your branch name"           (Push the code to your branch repo)
